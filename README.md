@@ -17,7 +17,7 @@ REST API микросервис, вычисляющий частоту встр�
 - Java 11
 - Maven
 - Docker
-- Spring 2.7
+- Spring Boot 2.7.16
 - Lombok
 - SpringBootTest
 
